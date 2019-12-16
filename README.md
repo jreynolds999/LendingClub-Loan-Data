@@ -1,4 +1,3 @@
-# README 
 # Predicting Success or Failure with Lending Club Loan Data 
 ## Contents:
 - [Problem Statement](#Problem-Statement)
