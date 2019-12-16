@@ -1,4 +1,4 @@
-# Predicting Success or Failure with Lending Club Loan Data 
+# Predicting Success or Failure of Loans with Lending Club Data 
 ## Contents:
 - [Problem Statement](#Problem-Statement)
 - [Executive Summary](#Executive-Summary)
